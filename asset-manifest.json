@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kleinprofile/static/css/main.63cb6904.css",
+    "main.js": "/kleinprofile/static/js/main.e0eaee6c.js",
+    "index.html": "/kleinprofile/index.html",
+    "main.63cb6904.css.map": "/kleinprofile/static/css/main.63cb6904.css.map",
+    "main.e0eaee6c.js.map": "/kleinprofile/static/js/main.e0eaee6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63cb6904.css",
+    "static/js/main.e0eaee6c.js"
+  ]
+}
